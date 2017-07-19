@@ -1,0 +1,64 @@
+/*
+**ainuo design 
+**				qq:179667784
+**							extend css
+*/
+.ainuo_bbsTop{ position:relative;}
+.ainuo_bbsTop .bbsTop_left{ position:absolute; width:635px; height:220px; left:0;}
+.ainuo_bbsTop .bbsTop_left .slidebar li.on{ background:#c34c21; color:#fff;}
+.ainuo_bbsTop .bbsTop_right{ margin-left:650px;height:220px; overflow:hidden;}
+.ainuo_bbsTop .bbsTop_right li{ padding-left:10px; font-size:14px; margin-bottom:12px; background:url({STYLEIMGDIR}/arrow.png) left center no-repeat;}
+.ainuo_bbsTop .bbsTop_right li span{ float:right; font-size:12px; color:#999; line-height:22px;}
+.ainuo_bbsTop .bbsTop_right li:hover a,.ainuo_bbsTop .bbsTop_right li:hover span{ color:#f60;}
+.ainuo_bbsTop .bbsTop_right li a{ color:#666;}
+
+.ainuo_pt{ font-size:14px; margin-bottom:10px;}
+.ainuo_pt #an li em{ font-size:12px; line-height:23px;}
+
+a#switchwidth{ margin-top:15px !important;}
+a#sslct{ margin-top:15px !important;}
+a#diy-tg{ margin-top:10px !important;}
+
+/*.ainuo_bbsSecond{}
+.ainuo_bbsSecond .bbs_list th {text-align:left;height: 40px;line-height: 40px;border-bottom: solid 1px #dcdcdc;font-size: 14px;color: #999;}
+.ainuo_bbsSecond .bbs_list td{height: 40px;line-height: 40px;border-bottom: dashed 1px #dcdcdc;}
+.ainuo_bbsSecond .bbs_list .td1 a{ font-size:14px;color: #3B639F;}
+.ainuo_bbsSecond .bbs_list .loadMore{  text-align:center; margin:20px auto; margin-bottom:10px;}
+.ainuo_bbsSecond .bbs_list .loadMore a{font-size:14px; background:#eee; padding:10px 30px;}*/
+
+.qing_user{float:right;}
+.qing_afterlogin{ width:auto;}
+.qing_afterlogin1{ float:right; width:51px;}
+#qing_um{ float:right;}
+#qing_um .pipe{ display:none;}
+.qing_pop{ background:#fff; padding:10px; margin-top:20px; text-align:center;width:100px; border:1px solid #e2e2e2; border-top:none; margin-left:-15px; }
+.qing_pop a{ display:inline-block; height:30px !important; line-height:30px !important; border-bottom:1px dashed #eee; float:left; width:100px; overflow:hidden;}
+.qing_pop a:hover{ color:#ea544a !important;}
+.qing_pop .showmenu{ background-position:80% 50%;}
+a.qing_userinfo{ display:inline-block; float:right; margin-left:15px;}
+.q_author{ padding-right:10px; border-right:1px solid #f1f1f1;border-left:1px solid #f1f1f1; }
+.q_author .q_darr{ padding-right:15px !important; background:url({STYLEIMGDIR}/darrow.png) no-repeat right center;}
+.q_bgfff{ background:#fff;}
+.q_author:hover{border-right:1px solid #e2e2e2;border-left:1px solid #e2e2e2;background:#fff;}
+.q_author a.q_darr:hover{background:#fff url({STYLEIMGDIR}/darrow.png) no-repeat right center;}
+a.qing_qqinfo{ display:inline-block; float:right; margin-left:15px;}
+a.qing_cookinfo{ display:inline-block; float:right; margin-left:15px;}
+.q_author{ float:left; margin-right:5px;position: relative;}
+.q_author a:hover{ cursor:pointer;}
+#qing_userinfo_menu{ display:none; }
+.q_author:hover #qing_userinfo_menu{display:block; position:absolute; z-index:100; top:28px;right:0}
+#shopcp_menu.p_pop{ margin-left:90px;}
+#my_menu.p_pop{margin-left:80px;}
+
+
+#space #toptb{ height:28px; line-height:28px;}
+#space .p_pop a{ padding:3px 5px;}
+#space #toptb a{ height:28px;}
+#nv_search #toptb{ height:28px; line-height:28px;}
+#nv_search #toptb a{ height:28px;}
+#toptb .qq_bind{vertical-align: -85%;}
+#space a#diy-tg{ margin-top:2px !important;}
+
+.ainuo_pnpost{ background:#c34c21; color:#fff; padding:8px 29px; font-size:14px;}
+.ainuo_pnreply{ background:#007CD5; color:#fff; padding:8px 20px; font-size:14px;}
+.ainuo_sort,.ainuo_sort a,.ainuo_sort em,.ainuo_sort em a{ font-size:14px !important;color: #007CD5 !important;}
